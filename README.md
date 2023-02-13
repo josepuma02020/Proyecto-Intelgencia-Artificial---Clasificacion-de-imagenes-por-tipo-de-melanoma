@@ -4,6 +4,6 @@
 
 Autores: Jose Pumarejo,Jhon Uribe
 
-##Objetivo
+## Objetivo
 
-Clasificar imagenes que contienen los distintos tipos de melanomas y clasificarlas segun su tipo.
+Visualizas y analizar imagenes que contienen los distintos tipos de melanomas y clasificarlas segun su tipo.
