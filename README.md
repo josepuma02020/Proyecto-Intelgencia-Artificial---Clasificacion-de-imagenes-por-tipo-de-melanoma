@@ -18,4 +18,4 @@ Modelo utilizado: DenseNet121
 
 ## Enlaces
 
-[Codigo](https://colab.research.google.com/drive/1F9m5ElIPs9yf55lE5EQVGgPD_0aBhZgF#scrollTo=1fmXiKY7MwZF) , [Repositorio](https://github.com/josepuma02020/Proyecto-Intelgencia-Artificial---Clasificacion-de-imagenes-por-tipo-de-melanoma)
+[Video](https://youtu.be/ckY6hOILRRM) , [Repositorio](https://github.com/josepuma02020/Proyecto-Intelgencia-Artificial---Clasificacion-de-imagenes-por-tipo-de-melanoma)
